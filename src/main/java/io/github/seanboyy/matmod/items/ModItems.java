@@ -66,7 +66,6 @@ public final class ModItems {
 	public static ArmorMaterial HYBRIDA = EnumHelper.addArmorMaterial("HYBRID", "matmod:hybrid_armor", 50, new int[] {5,10,8,5}, 25, SoundEvents.item_armor_equip_diamond);
 	
 	public static void createItems() {
-		GameRegistry.registerItem(tutorialItem = new BasicItem("tutorial_item"), "tutorial_item");
 		GameRegistry.registerItem(upgradedDiamond = new BasicItem("upgraded_diamond"), "upgraded_diamond");
 		GameRegistry.registerItem(obsidianIngot = new BasicItem("obsidian_ingot"), "obsidian_ingot");
 		GameRegistry.registerItem(hybridMix = new BasicItem("hybrid_mix"), "hybrid_mix");

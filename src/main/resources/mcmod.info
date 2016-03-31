@@ -6,7 +6,7 @@
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
-  "updateUrl": "https://github.com/seanboyy/matmod",
+  "updateUrl": "https://github.com/seanboyy/matmod/releases",
   "authorList": ["Seanboyy"],
   "credits": "",
   "logoFile": "",
