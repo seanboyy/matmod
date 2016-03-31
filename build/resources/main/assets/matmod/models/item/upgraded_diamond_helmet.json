@@ -1,6 +1,0 @@
-{
-	"parent":"matmod:item/standard_item",
-	"textures": {
-		"layer0":"matmod:items/upgraded_diamond_helmet"
-	}
-}

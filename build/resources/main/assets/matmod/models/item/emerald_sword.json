@@ -1,6 +1,0 @@
-{
-	"parent": "matmod:item/standard_tool",
-	"textures": {
-		"layer0": "matmod:items/emerald_sword"
-	}
-}
