@@ -1,0 +1,6 @@
+2.0.1:
+    Fixed broken ItemModAxe
+2.0.0:
+    Upgraded to MC 1.9
+1.0.0:
+    Initial Release
