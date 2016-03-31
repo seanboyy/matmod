@@ -1,0 +1,6 @@
+{
+	"parent":"matmod:item/standard_item",
+	"textures": {
+		"layer0":"matmod:items/hybrid_leggings"
+	}
+}
